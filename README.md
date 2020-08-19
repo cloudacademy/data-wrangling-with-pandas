@@ -1,9 +1,9 @@
 # Data Wrangling with Pandas
-This repository provides the data and an external resource in support of the course Data Wrangling with Pandas, provided by Cloud Academy
+This repository provides the data and an external resource in support of the course Data Wrangling with Pandas, provided by Cloud Academy.
 
 ## Data
 
-The dataset we have used in this course is available in the `data` folder. I recoomend to follows the following steps in order you to be able to use them in your local host. Open your favourite terminal emulator, and then:
+The dataset we have used in this course is available in the `data` folder. I suggest to follow the following steps in order you to be able to replicate the course steps in your local host. Open your favourite terminal emulator, and then:
 
  1. clone the repo: `git clone https://github.com/cloudacademy/data-wrangling-with-pandas.git`
  2. create a python virtualenv: `mkvirtualenv - p python3 <NAME_ENV>`
